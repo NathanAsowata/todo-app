@@ -1,7 +1,8 @@
 ## A console app for tracking tasks
-- Users can add new tasks
-- delete a specific task
-- view all tasks
-- exit the app whenever they want
+### Commands
+- `add` to add new tasks
+- `delete` to delete a specific task
+- `show` to view all tasks
+- `help` to see all commands
+- `exit` to exit the program
 
-The app runs infinitely
